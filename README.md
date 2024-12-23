@@ -26,9 +26,9 @@ CPU & GPU Power Management | ✅
 Audio | ✅
 Intel Wi-Fi (you can edit itlwm.kext and manually add your Wi-Fi configuation like SSID and password for online installation) | ✅
 Battery Status | ✅
-Shutdown / Reboot (you can also change through terminal hibernation settings, but anyway will not work as in Windows) | ✅
+Shutdown / Reboot | ✅
 Bluetooth | ✅
-Sleep | ✅
+Sleep (you can also change through terminal hibernation settings, but anyway will not work as in Windows) | ✅
 Microphone | ✅
 ## What's not working 
 
