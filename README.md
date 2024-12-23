@@ -41,7 +41,7 @@ Audio & Mic | If audio or mic do not work - reboot or try another alcid.|❌
 ## Notes
 Please disable the Secure Boot & Fast Boot in BIOS.
 
-<<a href = "https://github.com/OpenIntelWireless/itlwm/releases"> Airport,kext> is not available for this version macos yet, and anyway it did not work on this device on older versions, so we use itlwm.kext instead)
+<a href="https://github.com/openintelwireless/itlwm/releases" target="_blank">Airport.kext</a> is not available for this version of macOS yet, and anyway it did not work on this device on older versions, so we use itlwm.kext instead.
 
 Kexts should be replaced according to Dortanias guide, especially when dealing with keyboard & touchpad.
 
