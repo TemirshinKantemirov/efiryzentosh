@@ -8,7 +8,7 @@ Type | Spec
 :---------|:---------
 CPU              | AMD Ryzen™ 7 3700U
 RAM           | SAMSUNG 8 GB 2400 MHz DDR4
-Wi-Fi             | Intel Dual Band Wireless-AC 8265 (airport kexts is not available for this version macos yet, and anyway it did not work on this device, so we use itlwm.kext instead)
+Wi-Fi             | Intel Dual Band Wireless-AC 8265
 Audio       | Realtek High Definition Audio ALC 256
 
 ## macOS Update History
@@ -40,6 +40,8 @@ Audio & Mic | If audio or mic do not work - reboot or try another alcid.|❌
 
 ## Notes
 Please disable the Secure Boot & Fast Boot in BIOS.
+
+<<a href = "https://github.com/OpenIntelWireless/itlwm/releases"> Airport,kext> is not available for this version macos yet, and anyway it did not work on this device on older versions, so we use itlwm.kext instead)
 
 Kexts should be replaced according to Dortanias guide, especially when dealing with keyboard & touchpad.
 
