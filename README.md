@@ -15,7 +15,7 @@ Audio       | Realtek High Definition Audio ALC 256
 
 ## macOS Update History
 - ✅ macOS Sequoia 15.2 (Updated through AppStore)
-- ✅ macOS High Sierra (offline installation through this guide <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=38857> HOW TO make a FULL (offline) installer for macOS on Windows!)
+- ✅ macOS High Sierra (offline installation through this <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=38857>guide
 
 ## What's working
 
@@ -49,7 +49,7 @@ If not booting, change SecureBootModel to Disabled in config.plist. Information 
 
 Add drivers and do not disrupt the original driver order.
 
-For every change in OC folder, I recommend to use <a href = https://github.com/corpnewt/ProperTree Propertree>, but please do not forget to do OC Snapshot.
+For every change in OC folder, I recommend to use <a href = https://github.com/corpnewt/ProperTree> Propertree, but please do not forget to do OC Snapshot.
 
 Please use GenSMBIOS to generate your three codes and change them!!!
 
