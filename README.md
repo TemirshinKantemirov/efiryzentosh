@@ -54,11 +54,11 @@ Please use GenSMBIOS to generate your three codes and change them!!!
 Chrome-based applications like Google Chrome or Steam will cause graphical artefacts amongst other problems. Your goal in dealing with this is to disable GPU acceleration in app if it gives such an option. In STEAM, you should go to settings disabling internet connection and turn off gpu acceleration, for chrome you can start it in terminal as it is shown in <a href = https://chefkissinc.github.io/applehax/nootedred/>NootedRED guide. 
 
 
-## SSDTs Used
+## SSDTs info
   
 SSDT | Info
 :---------|:---------
-Used SSDTs | You can check in ACPI directory, but I recommend you to recreate new ones exactly for your device according to <a href = https://chefkissinc.github.io/guides/hackintosh/gathering-files/acpi/> this guide 
+You can check in ACPI directory, but I recommend you to recreate new ones exactly for your device according to <a href = https://chefkissinc.github.io/guides/hackintosh/gathering-files/acpi/> this guide 
 
 ## Screenshot of the system.
 
