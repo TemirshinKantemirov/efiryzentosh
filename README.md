@@ -1,8 +1,6 @@
-# efiryzentosh
+# macOS on ASUS VivoBook X512DA (AMD)
 
 Base EFI built for ASUS x512DA with AMD 3700U with 2GB Vega 10 iGPU according to <a href = https://dortania.github.io/OpenCore-Install-Guide/> Dortania's OpenCore guide. 
-
-# macOS on ASUS VivoBook X512DA (AMD)
 
 ## Specifications
 
@@ -15,7 +13,7 @@ Audio       | Realtek High Definition Audio ALC 256
 
 ## macOS Update History
 - ✅ macOS Sequoia 15.2 (Updated through AppStore)
-- ✅ macOS High Sierra (offline installation through this <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?rdt=38857>guide
+- ✅ macOS High Sierra (offline installation through this <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button>guide
 
 ## What's working
 
