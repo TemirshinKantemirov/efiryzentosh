@@ -62,4 +62,4 @@ Used SSDTs | You can check in ACPI directory, but I recommend you to recreate ne
 
 ## Screenshot of the system.
 
-<img src = /macos15.png>
+<img src = "macos15.png">
