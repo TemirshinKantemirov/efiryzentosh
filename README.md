@@ -7,10 +7,10 @@ Base EFI built for ASUS x512DA with AMD 3700U with 2GB Vega 10 iGPU according to
 Type | Spec
 :---------|:---------
 CPU              | AMD Ryzen™ 7 3700U
-RAM           | SAMSUNG 8 GB 2400 MHz DDR4
+RAM           | Samsung 8 GB 2400 MHz DDR4
 Wi-Fi             | Intel Dual Band Wireless-AC 8265
 Audio       | Realtek High Definition Audio ALC 256
-SSD       | KINGSTON 256 Gb
+SSD       | Kingston 256 Gb
 
 ## macOS Update History
 - ✅ macOS Sequoia 15.2 (Updated through AppStore)
