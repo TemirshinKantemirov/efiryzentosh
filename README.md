@@ -8,7 +8,7 @@ Type | Spec
 :---------|:---------
 CPU              | AMD Ryzen™ 7 3700U
 RAM           | SAMSUNG 8 GB 2400 MHz DDR4
-Wi-Fi             | Intel Dual Band Wireless-AC 8265
+Wi-Fi             | Intel Dual Band Wireless-AC 8265 (airport kexts is not available for this version macos yet, and anyway it did not work on this device, so we use itlwm.kext instead)
 Audio       | Realtek High Definition Audio ALC 256
 
 ## macOS Update History
