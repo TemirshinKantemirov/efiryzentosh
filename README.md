@@ -10,10 +10,11 @@ CPU              | AMD Ryzen™ 7 3700U
 RAM           | SAMSUNG 8 GB 2400 MHz DDR4
 Wi-Fi             | Intel Dual Band Wireless-AC 8265
 Audio       | Realtek High Definition Audio ALC 256
+SSD       | KINGSTON 256 Gb
 
 ## macOS Update History
 - ✅ macOS Sequoia 15.2 (Updated through AppStore)
-- ✅ macOS High Sierra (offline installation through this <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/ guide)
+- ✅ macOS High Sierra (offline installation through this <a href = https://www.reddit.com/r/hackintosh/comments/jrrhox/how_to_make_a_full_offline_installer_for_macos_on/> guide)
 
 ## What's working
 
