@@ -56,8 +56,8 @@ Chrome-based applications like Google Chrome or Steam will cause graphical artef
 
 ## SSDTs info
   
-SSDT | Info
-:---------|:---------
+SSDT
+---------
 You can check in ACPI directory, but I recommend you to recreate new ones exactly for your device according to <a href = https://chefkissinc.github.io/guides/hackintosh/gathering-files/acpi/> this guide 
 
 ## Screenshot of the system.
