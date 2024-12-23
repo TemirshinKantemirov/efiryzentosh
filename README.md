@@ -1,4 +1,5 @@
 # efiryzentosh
+
 Base EFI built for ASUS x512DA with AMD 3700U with 2GB Vega 10 iGPU according to <a href = https://dortania.github.io/OpenCore-Install-Guide/> Dortania's OpenCore guide. 
 
 # macOS on ASUS VivoBook X512DA (AMD)
@@ -48,7 +49,7 @@ If not booting, change SecureBootModel to Disabled in config.plist. Information 
 
 Add drivers and do not disrupt the original driver order.
 
-For every change in OC folder, I recommend to use <a href = https://github.com/corpnewt/ProperTree>Propertree, but please do not forget to do OC Snapshot.
+For every change in OC folder, I recommend to use <a href = https://github.com/corpnewt/ProperTree Propertree>, but please do not forget to do OC Snapshot.
 
 Please use GenSMBIOS to generate your three codes and change them!!!
 
@@ -60,5 +61,3 @@ Chrome-based applications like Google Chrome or Steam will cause graphical artef
 SSDT | Info
 :---------|:---------
 Used SSDTs | You can check in ACPI directory, but I recommend you to recreate new ones exactly for your device according to <a href = https://chefkissinc.github.io/guides/hackintosh/gathering-files/acpi/> this guide 
-
-- And anyone else that helped to develop and improve hackintoshing.
